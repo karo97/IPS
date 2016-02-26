@@ -16,7 +16,6 @@
   h1, h2, h3, h4, h5, h6, h7
   {
     margin: 0 0 0.5em 0;
-    color: black;
   }
 
   h2
@@ -29,7 +28,6 @@
       font-size: 1.65em;
       text-align: center;
       margin: 0 0 3em 0;
-      border-top: solid 5px turquoise;
     }
 
       h2.major span
@@ -72,8 +70,6 @@
   .button, .btn
   {
     font-size: 1.25em;
-      color: gray;
-
     padding: 0.85em 1.85em 0.85em 1.85em;
   }
 
@@ -231,8 +227,7 @@
   
   #main-wrapper
   {
-    
-      border-top: solid 40px turquoise;
+    border-top-width: 35px;
     border-bottom-width: 10px;
   }
   
@@ -256,12 +251,12 @@
     {
       position: relative;
       text-align: center;
-      border-top: solid 5px turquoise;
+      border-top: solid 5px #e7eae8;
     }
 
       #header .logo div
       {
-        background: white;
+        background: #fff;
         position: relative;
         display: inline-block;
         padding: 0 1.5em 0 1.5em;
@@ -310,7 +305,6 @@
     {
       position: relative;
       z-index: 1001;
-     
     }
   
     #nav li
@@ -361,7 +355,7 @@
 
         #nav li.current_page_item a
         {
-          background: turquoise;
+          background: #e3daa8;
           color: #fff;
         }
 

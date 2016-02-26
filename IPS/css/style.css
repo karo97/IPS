@@ -8,7 +8,6 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
-
   *
   {
     -moz-box-sizing: border-box;
@@ -23,7 +22,7 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     background: #f2f5f3;
-    color: black;
+    color: #6b7770;
     font-size: 11.5pt;
     line-height: 2em;
   }
@@ -33,7 +32,7 @@
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: black;
+    color: #6b7770;
   }
 
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h7 a
@@ -111,7 +110,7 @@
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: grey;
+    color: #c1cac5;
   }
 
   .image
@@ -180,7 +179,7 @@
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
-    background: turquoise;
+    background: #e3daa8;
     color: #fff;
     border-radius: 8px;
     outline: 0;
@@ -198,7 +197,7 @@
   
     .button-alt
     {
-      background: lightskyblue;
+      background: #c1cac5;
     }
 
       .button-alt:hover
@@ -497,8 +496,8 @@
   #main-wrapper
   {
     background: #fff;
-    border-top: solid 5px turquoise;
-    border-bottom: solid 5px turquoise;
+    border-top: solid 5px #e3daa8;
+    border-bottom: solid 5px #c1cac5;
   }
   
 /*********************************************************************************/
@@ -623,11 +622,11 @@
   #copyright
   {
     display: inline-block;
-    background: lightgray;
+    background: #e7eae8;
     padding: 0.75em 2em 0.75em 2em;
     border-radius: 8px;
     font-size: 0.85em;
-    color: grey;
+    color: #8b9790;
   }
   
     #copyright a

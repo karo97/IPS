@@ -129,6 +129,3 @@ D:\GitHUB\IPS\IPS\bin\UmbracoExamine.xml
 D:\GitHUB\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
 D:\GitHUB\IPS\IPS\obj\Debug\IPS.dll
 D:\GitHUB\IPS\IPS\obj\Debug\IPS.pdb
-C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
-C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.dll
-C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.pdb
