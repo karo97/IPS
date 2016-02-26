@@ -1,0 +1,14 @@
+{
+  "id": "ed615679-371d-40d3-a749-7899d8d79e0f",
+  "name": "Send email to rafal.bedkowski@morezo.com when submitted",
+  "form": "770f99b4-1c64-4b5d-9872-789f0dc83aac",
+  "active": true,
+  "workflowTypeId": "e96badd7-05be-4978-b8d9-b3d733de70a5",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "rafal.bedkowski@morezo.com",
+    "Subject": "the form  was submitted",
+    "Message": "the form  was submitted, this is the list of values it contained, you can turn this email off under workflows in Umbraco Contour"
+  },
+  "sortOrder": 0
+}
