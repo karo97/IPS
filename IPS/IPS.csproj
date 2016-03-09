@@ -400,6 +400,7 @@
     <Content Include="Views\Partials\umbSocial - Copy.cshtml" />
     <Content Include="Views\Partials\umbTopNavigation.cshtml" />
     <Content Include="scripts\jquery-1.9.1.min.map" />
+<<<<<<< HEAD
     <None Include="Properties\PublishProfiles\ipowersolutions.morezo.com - Web Deploy.pubxml" />
     <Content Include="Views\Partials\Forms\Export\csv.cshtml" />
     <Content Include="Views\Partials\Forms\Export\html.cshtml" />
@@ -420,6 +421,8 @@
     <Content Include="Views\Partials\ContactForm.cshtml" />
     <Content Include="Views\Kontakt.cshtml" />
     <Content Include="Views\KontaktFormularz.cshtml" />
+=======
+>>>>>>> 0e5dad2bb15a38d8c34fac0c28ad8272d432d556
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

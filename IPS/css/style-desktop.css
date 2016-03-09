@@ -16,7 +16,6 @@
   h1, h2, h3, h4, h5, h6, h7
   {
     margin: 0 0 0.5em 0;
-    color: black;
   }
 
   h2
@@ -29,7 +28,10 @@
       font-size: 1.65em;
       text-align: center;
       margin: 0 0 3em 0;
+<<<<<<< HEAD
       border-top: solid 5px #77dcff;
+=======
+>>>>>>> 0e5dad2bb15a38d8c34fac0c28ad8272d432d556
     }
 
       h2.major span
@@ -72,8 +74,6 @@
   .button, .btn
   {
     font-size: 1.25em;
-      color: gray;
-
     padding: 0.85em 1.85em 0.85em 1.85em;
   }
 
@@ -231,8 +231,12 @@
   
   #main-wrapper
   {
+<<<<<<< HEAD
     
       border-top: solid 40px #77dcff;
+=======
+    border-top-width: 35px;
+>>>>>>> 0e5dad2bb15a38d8c34fac0c28ad8272d432d556
     border-bottom-width: 10px;
   }
   
@@ -256,12 +260,16 @@
     {
       position: relative;
       text-align: center;
+<<<<<<< HEAD
       border-top: solid 5px #77dcff;
+=======
+      border-top: solid 5px #e7eae8;
+>>>>>>> 0e5dad2bb15a38d8c34fac0c28ad8272d432d556
     }
 
       #header .logo div
       {
-        background: white;
+        background: #fff;
         position: relative;
         display: inline-block;
         padding: 0 1.5em 0 1.5em;
@@ -310,7 +318,6 @@
     {
       position: relative;
       z-index: 1001;
-     
     }
   
     #nav li
@@ -361,7 +368,11 @@
 
         #nav li.current_page_item a
         {
+<<<<<<< HEAD
           background: #77dcff;
+=======
+          background: #e3daa8;
+>>>>>>> 0e5dad2bb15a38d8c34fac0c28ad8272d432d556
           color: #fff;
         }
 

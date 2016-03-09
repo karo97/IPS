@@ -129,6 +129,7 @@ D:\GitHUB\IPS\IPS\bin\UmbracoExamine.xml
 D:\GitHUB\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
 D:\GitHUB\IPS\IPS\obj\Debug\IPS.dll
 D:\GitHUB\IPS\IPS\obj\Debug\IPS.pdb
+<<<<<<< HEAD
 C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
 C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.dll
 C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.pdb
@@ -524,3 +525,5 @@ C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.Model
 C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.providers.xml
 C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.Web.UI.xml
 C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\UmbracoExamine.xml
+=======
+>>>>>>> 0e5dad2bb15a38d8c34fac0c28ad8272d432d556
