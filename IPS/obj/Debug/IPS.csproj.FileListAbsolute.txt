@@ -132,3 +132,395 @@ D:\GitHUB\IPS\IPS\obj\Debug\IPS.pdb
 C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
 C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.dll
 C:\Users\Karlina\documents\visual studio 2015\Projects\IPS\IPS\obj\Debug\IPS.pdb
+H:\nowy ips\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
+H:\nowy ips\IPS\IPS\obj\Debug\IPS.dll
+H:\nowy ips\IPS\IPS\obj\Debug\IPS.pdb
+D:\IPS\IPS\bin\ApplicationInsights.config
+D:\IPS\IPS\bin\roslyn\csc.exe
+D:\IPS\IPS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IPS\IPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IPS\IPS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IPS\IPS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IPS\IPS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IPS\IPS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IPS\IPS\bin\roslyn\System.Collections.Immutable.dll
+D:\IPS\IPS\bin\roslyn\System.Reflection.Metadata.dll
+D:\IPS\IPS\bin\roslyn\vbc.exe
+D:\IPS\IPS\bin\roslyn\VBCSCompiler.exe
+D:\IPS\IPS\bin\roslyn\VBCSCompiler.exe.config
+D:\IPS\IPS\bin\IPS.dll.config
+D:\IPS\IPS\bin\IPS.dll
+D:\IPS\IPS\bin\IPS.pdb
+D:\IPS\IPS\bin\AutoMapper.dll
+D:\IPS\IPS\bin\AutoMapper.Net4.dll
+D:\IPS\IPS\bin\businesslogic.dll
+D:\IPS\IPS\bin\ClientDependency.Core.dll
+D:\IPS\IPS\bin\ClientDependency.Core.Mvc.dll
+D:\IPS\IPS\bin\cms.dll
+D:\IPS\IPS\bin\controls.dll
+D:\IPS\IPS\bin\CookComputing.XmlRpcV2.dll
+D:\IPS\IPS\bin\Examine.dll
+D:\IPS\IPS\bin\HtmlAgilityPack.dll
+D:\IPS\IPS\bin\ICSharpCode.SharpZipLib.dll
+D:\IPS\IPS\bin\ImageProcessor.dll
+D:\IPS\IPS\bin\ImageProcessor.Web.dll
+D:\IPS\IPS\bin\interfaces.dll
+D:\IPS\IPS\bin\log4net.dll
+D:\IPS\IPS\bin\Lucene.Net.dll
+D:\IPS\IPS\bin\MarkdownSharp.dll
+D:\IPS\IPS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IPS\IPS\bin\Microsoft.AI.DependencyCollector.dll
+D:\IPS\IPS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IPS\IPS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IPS\IPS\bin\Microsoft.AI.Web.dll
+D:\IPS\IPS\bin\Microsoft.AI.WindowsServer.dll
+D:\IPS\IPS\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\IPS\IPS\bin\Microsoft.ApplicationInsights.dll
+D:\IPS\IPS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\IPS\IPS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\IPS\IPS\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\IPS\IPS\bin\Microsoft.CodeAnalysis.dll
+D:\IPS\IPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IPS\IPS\bin\Microsoft.Owin.dll
+D:\IPS\IPS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\IPS\IPS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\IPS\IPS\bin\Microsoft.Owin.Security.dll
+D:\IPS\IPS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\IPS\IPS\bin\Microsoft.Web.Infrastructure.dll
+D:\IPS\IPS\bin\MiniProfiler.dll
+D:\IPS\IPS\bin\MySql.Data.dll
+D:\IPS\IPS\bin\Newtonsoft.Json.dll
+D:\IPS\IPS\bin\Owin.dll
+D:\IPS\IPS\bin\Semver.dll
+D:\IPS\IPS\bin\SQLCE4Umbraco.dll
+D:\IPS\IPS\bin\System.Collections.Immutable.dll
+D:\IPS\IPS\bin\System.Data.SqlServerCe.dll
+D:\IPS\IPS\bin\System.Data.SqlServerCe.Entity.dll
+D:\IPS\IPS\bin\System.Net.Http.Formatting.dll
+D:\IPS\IPS\bin\System.Reflection.Metadata.dll
+D:\IPS\IPS\bin\System.Web.Helpers.dll
+D:\IPS\IPS\bin\System.Web.Http.dll
+D:\IPS\IPS\bin\System.Web.Http.WebHost.dll
+D:\IPS\IPS\bin\System.Web.Mvc.dll
+D:\IPS\IPS\bin\System.Web.Razor.dll
+D:\IPS\IPS\bin\System.Web.WebPages.Deployment.dll
+D:\IPS\IPS\bin\System.Web.WebPages.dll
+D:\IPS\IPS\bin\System.Web.WebPages.Razor.dll
+D:\IPS\IPS\bin\TidyNet.dll
+D:\IPS\IPS\bin\Umbraco.Core.dll
+D:\IPS\IPS\bin\umbraco.DataLayer.dll
+D:\IPS\IPS\bin\umbraco.dll
+D:\IPS\IPS\bin\umbraco.editorControls.dll
+D:\IPS\IPS\bin\umbraco.MacroEngines.dll
+D:\IPS\IPS\bin\Umbraco.ModelsBuilder.dll
+D:\IPS\IPS\bin\umbraco.providers.dll
+D:\IPS\IPS\bin\Umbraco.Web.UI.dll
+D:\IPS\IPS\bin\UmbracoExamine.dll
+D:\IPS\IPS\bin\UrlRewritingNet.UrlRewriter.dll
+D:\IPS\IPS\bin\AutoMapper.xml
+D:\IPS\IPS\bin\businesslogic.xml
+D:\IPS\IPS\bin\ClientDependency.Core.pdb
+D:\IPS\IPS\bin\ClientDependency.Core.Mvc.pdb
+D:\IPS\IPS\bin\cms.xml
+D:\IPS\IPS\bin\controls.xml
+D:\IPS\IPS\bin\Examine.pdb
+D:\IPS\IPS\bin\HtmlAgilityPack.pdb
+D:\IPS\IPS\bin\HtmlAgilityPack.xml
+D:\IPS\IPS\bin\interfaces.xml
+D:\IPS\IPS\bin\Lucene.Net.xml
+D:\IPS\IPS\bin\Microsoft.AI.DependencyCollector.xml
+D:\IPS\IPS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IPS\IPS\bin\Microsoft.AI.Web.xml
+D:\IPS\IPS\bin\Microsoft.AI.WindowsServer.xml
+D:\IPS\IPS\bin\Microsoft.ApplicationInsights.xml
+D:\IPS\IPS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\IPS\IPS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\IPS\IPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IPS\IPS\bin\Microsoft.Owin.xml
+D:\IPS\IPS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\IPS\IPS\bin\Microsoft.Owin.Security.xml
+D:\IPS\IPS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\IPS\IPS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\IPS\IPS\bin\MiniProfiler.pdb
+D:\IPS\IPS\bin\MiniProfiler.xml
+D:\IPS\IPS\bin\Newtonsoft.Json.xml
+D:\IPS\IPS\bin\SQLCE4Umbraco.xml
+D:\IPS\IPS\bin\System.Net.Http.Formatting.xml
+D:\IPS\IPS\bin\System.Web.Helpers.xml
+D:\IPS\IPS\bin\System.Web.Http.xml
+D:\IPS\IPS\bin\System.Web.Http.WebHost.xml
+D:\IPS\IPS\bin\System.Web.Mvc.xml
+D:\IPS\IPS\bin\System.Web.Razor.xml
+D:\IPS\IPS\bin\System.Web.WebPages.xml
+D:\IPS\IPS\bin\System.Web.WebPages.Deployment.xml
+D:\IPS\IPS\bin\System.Web.WebPages.Razor.xml
+D:\IPS\IPS\bin\umbraco.xml
+D:\IPS\IPS\bin\Umbraco.Core.xml
+D:\IPS\IPS\bin\umbraco.DataLayer.xml
+D:\IPS\IPS\bin\umbraco.editorControls.xml
+D:\IPS\IPS\bin\umbraco.MacroEngines.xml
+D:\IPS\IPS\bin\Umbraco.ModelsBuilder.pdb
+D:\IPS\IPS\bin\umbraco.providers.xml
+D:\IPS\IPS\bin\Umbraco.Web.UI.xml
+D:\IPS\IPS\bin\UmbracoExamine.xml
+D:\IPS\IPS\obj\Debug\IPS.csprojResolveAssemblyReference.cache
+D:\IPS\IPS\obj\Debug\IPS.dll
+D:\IPS\IPS\obj\Debug\IPS.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\ApplicationInsights.config
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\csc.exe
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\vbc.exe
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\VBCSCompiler.exe
+D:\GitHUB\IPowerSolutions\IPS\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHUB\IPowerSolutions\IPS\bin\IPS.dll.config
+D:\GitHUB\IPowerSolutions\IPS\bin\IPS.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\IPS.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\AutoMapper.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\AutoMapper.Net4.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\businesslogic.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\ClientDependency.Core.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\ClientDependency.Core.Mvc.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\cms.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\controls.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\CookComputing.XmlRpcV2.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Examine.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\HtmlAgilityPack.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\ICSharpCode.SharpZipLib.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\ImageProcessor.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\ImageProcessor.Web.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\interfaces.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\log4net.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Lucene.Net.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\MarkdownSharp.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.Web.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.WindowsServer.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.ApplicationInsights.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.CodeAnalysis.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Security.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\MiniProfiler.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\MySql.Data.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Newtonsoft.Json.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Owin.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Semver.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\SQLCE4Umbraco.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Collections.Immutable.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Data.SqlServerCe.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Data.SqlServerCe.Entity.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Net.Http.Formatting.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Reflection.Metadata.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Helpers.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Http.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Http.WebHost.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Mvc.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Razor.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.WebPages.Deployment.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.WebPages.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.WebPages.Razor.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\TidyNet.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Umbraco.Core.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.DataLayer.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.editorControls.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.MacroEngines.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Umbraco.ModelsBuilder.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.providers.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\Umbraco.Web.UI.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\UmbracoExamine.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\UrlRewritingNet.UrlRewriter.dll
+D:\GitHUB\IPowerSolutions\IPS\bin\AutoMapper.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\businesslogic.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\ClientDependency.Core.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\ClientDependency.Core.Mvc.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\cms.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\controls.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Examine.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\HtmlAgilityPack.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\HtmlAgilityPack.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\interfaces.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Lucene.Net.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.Web.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AI.WindowsServer.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.ApplicationInsights.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Security.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\MiniProfiler.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\MiniProfiler.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Newtonsoft.Json.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\SQLCE4Umbraco.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Net.Http.Formatting.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Helpers.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Http.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Http.WebHost.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Mvc.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.Razor.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.WebPages.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.WebPages.Deployment.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\System.Web.WebPages.Razor.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Umbraco.Core.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.DataLayer.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.editorControls.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.MacroEngines.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Umbraco.ModelsBuilder.pdb
+D:\GitHUB\IPowerSolutions\IPS\bin\umbraco.providers.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\Umbraco.Web.UI.xml
+D:\GitHUB\IPowerSolutions\IPS\bin\UmbracoExamine.xml
+D:\GitHUB\IPowerSolutions\IPS\obj\Debug\IPS.dll
+D:\GitHUB\IPowerSolutions\IPS\obj\Debug\IPS.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ApplicationInsights.config
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\csc.exe
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\vbc.exe
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\IPS.dll.config
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\IPS.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\IPS.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\AutoMapper.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\AutoMapper.Net4.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\businesslogic.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ClientDependency.Core.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\cms.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\controls.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Examine.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\HtmlAgilityPack.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ImageProcessor.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ImageProcessor.Web.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\interfaces.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\log4net.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Lucene.Net.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\MarkdownSharp.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.Web.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Security.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\MiniProfiler.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\MySql.Data.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Newtonsoft.Json.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Owin.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Semver.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\SQLCE4Umbraco.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Collections.Immutable.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Data.SqlServerCe.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Net.Http.Formatting.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Reflection.Metadata.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Helpers.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Http.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Http.WebHost.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Mvc.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Razor.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.WebPages.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\TidyNet.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.Core.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.DataLayer.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.editorControls.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.MacroEngines.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.ModelsBuilder.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.providers.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.Web.UI.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\UmbracoExamine.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\UrlRewritingNet.UrlRewriter.dll
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\AutoMapper.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\businesslogic.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ClientDependency.Core.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\cms.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\controls.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Examine.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\HtmlAgilityPack.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\HtmlAgilityPack.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\interfaces.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Lucene.Net.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.Web.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Security.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\MiniProfiler.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\MiniProfiler.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Newtonsoft.Json.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\SQLCE4Umbraco.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Net.Http.Formatting.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Helpers.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Http.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Http.WebHost.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Mvc.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.Razor.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.WebPages.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.Core.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.DataLayer.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.editorControls.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.MacroEngines.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.ModelsBuilder.pdb
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\umbraco.providers.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\Umbraco.Web.UI.xml
+C:\Users\Karlina\Documents\Visual Studio 2015\Projects\IPS\IPS\bin\UmbracoExamine.xml

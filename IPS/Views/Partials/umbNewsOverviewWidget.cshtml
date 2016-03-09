@@ -51,7 +51,7 @@
                             <h3><a href="@featuredNewsItem.Url">@featuredNewsItemTitle</a></h3>
                             <span class="byline">@featuredNewsItem.SubHeader</span>
                             <ul class="meta">
-                                <li class="timestamp">@(featuredNewsItemDateTime.ToString("f"))</li>
+                                <li class="timestamp">@(featuredNewsItemDateTime.ToString("f", new System.Globalization.CultureInfo("pl-PL")))</li>
                             </ul>
                         </header>
 
@@ -62,7 +62,7 @@
 
                         @Umbraco.Truncate(featuredNewsItem.BodyText, 200, true, false)
 
-                        <a href="@featuredNewsItem.Url" class="button">Continue Reading</a>
+                        <a href="@featuredNewsItem.Url" class="button">Czytaj więcej...</a>
                     </article>
                     <!-- /Featured Post -->
                 </div>

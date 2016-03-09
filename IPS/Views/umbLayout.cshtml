@@ -33,7 +33,8 @@
         <div class="logo">
             <div>
                 <h1><a href="/" id="logo">@Umbraco.Field("siteName", recursive: true)</a></h1>
-                <span class="byline">@Umbraco.Field("byline", recursive: true)</span>
+                @*<span class="byline">@Umbraco.Field("byline", recursive: true)</span>*@
+                <span class="logof"><img src="@Umbraco.Field("logoFirmowe", recursive: true)" alt="Logo Firmowe" width="200" height="100"/></span>
             </div>
         </div>
     </header>
@@ -57,7 +58,7 @@
         <div class="row">
             <!-- Copyright -->
             <div id="copyright">
-                &copy; @DateTime.Now.Year @Umbraco.Field("copyright", recursive: true) | Images: <a href="http://fotogrph.com">fotogrph</a> + <a href="http://iconify.it">Iconify.it</a> | Design: <a href="http://html5up.net/">HTML5 UP</a>
+                &copy; @DateTime.Now.Year @Umbraco.Field("copyright", recursive: true) | <a>MOREZO.com -> Karolina B.    &     Damian W.</a>
             </div>
             <!-- /Copyright -->
         </div>

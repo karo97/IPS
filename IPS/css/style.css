@@ -180,7 +180,7 @@
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
-    background: turquoise;
+    background: #77dcff;
     color: #fff;
     border-radius: 8px;
     outline: 0;
@@ -193,12 +193,12 @@
 
     .button:hover
     {
-      background: #ebe3b2;
+      background: #ccd5d0;
     }
   
     .button-alt
     {
-      background: lightskyblue;
+      background: #77dcff;
     }
 
       .button-alt:hover
@@ -497,8 +497,8 @@
   #main-wrapper
   {
     background: #fff;
-    border-top: solid 5px turquoise;
-    border-bottom: solid 5px turquoise;
+    border-top: solid 5px #77dcff;
+    border-bottom: solid 5px #77dcff;
   }
   
 /*********************************************************************************/
@@ -633,4 +633,13 @@
     #copyright a
     {
       color: inherit;
+    }
+    .logof {
+        width:150px !important;
+        height:40px !important;
+        position:absolute;
+        text-align: center;
+    }
+    .google{
+        vertical-align:central;
     }

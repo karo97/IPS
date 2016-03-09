@@ -218,6 +218,15 @@ namespace Umbraco.Web.PublishedContentModels
 		}
 
 		///<summary>
+		/// Logo Firmowe: Logo firmy
+		///</summary>
+		[ImplementPropertyType("logoFirmowe")]
+		public object LogoFirmowe
+		{
+			get { return this.GetPropertyValue("logoFirmowe"); }
+		}
+
+		///<summary>
 		/// Rss link
 		///</summary>
 		[ImplementPropertyType("rssLink")]
@@ -383,6 +392,58 @@ namespace Umbraco.Web.PublishedContentModels
 		public object Image
 		{
 			get { return this.GetPropertyValue("image"); }
+		}
+	}
+
+	/// <summary>Kontakt</summary>
+	[PublishedContentModel("kontakt")]
+	public partial class Kontakt : UmbMaster
+	{
+#pragma warning disable 0109 // new is redundant
+		public new const string ModelTypeAlias = "kontakt";
+		public new const PublishedItemType ModelItemType = PublishedItemType.Content;
+#pragma warning restore 0109
+
+		public Kontakt(IPublishedContent content)
+			: base(content)
+		{ }
+
+#pragma warning disable 0109 // new is redundant
+		public new static PublishedContentType GetModelContentType()
+		{
+			return PublishedContentType.Get(ModelItemType, ModelTypeAlias);
+		}
+#pragma warning restore 0109
+
+		public static PublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<Kontakt, TValue>> selector)
+		{
+			return PublishedContentModelUtility.GetModelPropertyType(GetModelContentType(), selector);
+		}
+	}
+
+	/// <summary>Formularz kontaktowy</summary>
+	[PublishedContentModel("kontaktFormularz")]
+	public partial class KontaktFormularz : UmbMaster
+	{
+#pragma warning disable 0109 // new is redundant
+		public new const string ModelTypeAlias = "kontaktFormularz";
+		public new const PublishedItemType ModelItemType = PublishedItemType.Content;
+#pragma warning restore 0109
+
+		public KontaktFormularz(IPublishedContent content)
+			: base(content)
+		{ }
+
+#pragma warning disable 0109 // new is redundant
+		public new static PublishedContentType GetModelContentType()
+		{
+			return PublishedContentType.Get(ModelItemType, ModelTypeAlias);
+		}
+#pragma warning restore 0109
+
+		public static PublishedPropertyType GetModelPropertyType<TValue>(Expression<Func<KontaktFormularz, TValue>> selector)
+		{
+			return PublishedContentModelUtility.GetModelPropertyType(GetModelContentType(), selector);
 		}
 	}
 

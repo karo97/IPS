@@ -23,11 +23,15 @@
                             {
                                 <span class="image image-full"><img src="@CurrentPage.Image" alt="" /></span>
                             }
-
                             @CurrentPage.BodyText
-                        </section>                           
+                        </section>
                     </article>
                     <!-- /Content -->
+					<section>
+						<div class="form">
+							@Umbraco.RenderMacro("FormsRenderForm", new {FormGuid="635ac0c9-14af-46c7-988f-5a9790b4e5b4"})
+						</div>
+					</section>			
                 </div>
             </div>
             <div class="3u">

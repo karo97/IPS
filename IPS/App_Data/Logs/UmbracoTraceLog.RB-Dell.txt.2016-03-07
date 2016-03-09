@@ -1,0 +1,36 @@
+﻿ 2016-03-07 17:20:54,524 [P12704/D2/T543] ERROR Umbraco.Core.Persistence.UmbracoDatabase - Database exception occurred
+System.Data.SqlClient.SqlException (0x80131904): Wystąpił błąd poziomu transportu podczas odbierania wyników z serwera. (provider: TCP Provider, error: 0 - Połączenie sieciowe zostało przerwane przez system lokalny.) ---> System.ComponentModel.Win32Exception (0x80004005): Połączenie sieciowe zostało przerwane przez system lokalny
+   w System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   w System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   w System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   w System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   w System.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   w System.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   w System.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   w System.Data.SqlClient.TdsParserStateObject.TryReadByte(Byte& value)
+   w System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   w System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   w System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   w System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   w System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   w System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   w StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() w c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:wiersz 266
+   w Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   w Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   w Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   w Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   w Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   w Umbraco.Core.Persistence.Database.Execute(String sql, Object[] args)
+ClientConnectionId:ea148dfa-4f73-4a95-ad6c-c79cf8e8ebf2
+Error Number:1236,State:0,Class:20
+ 2016-03-07 17:20:55,156 [P12704/D2/T543] ERROR Umbraco.Web.Strategies.ServerRegistrationEventHandler - Failed to update server record in database.
+System.InvalidOperationException: Ten element SqlTransaction zakończył się; nie można go już używać.
+   w System.Data.SqlClient.SqlTransaction.ZombieCheck()
+   w System.Data.SqlClient.SqlTransaction.Rollback()
+   w StackExchange.Profiling.Data.ProfiledDbTransaction.Rollback() w c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbTransaction.cs:wiersz 74
+   w Umbraco.Core.Persistence.Database.CleanupTransaction()
+   w Umbraco.Core.Persistence.Database.AbortTransaction()
+   w Umbraco.Core.Persistence.Transaction.Dispose()
+   w Umbraco.Core.Persistence.LockingRepository`1.WithWriteLocked(Action`1 action, Boolean autoCommit)
+   w Umbraco.Core.Services.ServerRegistrationService.TouchServer(String serverAddress, String serverIdentity, TimeSpan staleTimeout)
+   w Umbraco.Web.Strategies.ServerRegistrationEventHandler.TouchServerTask.PerformRun()

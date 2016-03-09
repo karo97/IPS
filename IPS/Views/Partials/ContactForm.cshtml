@@ -1,0 +1,29 @@
+﻿@using IPS.Controllers
+@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using Newtonsoft.Json
+@inherits Umbraco.Web.Mvc.UmbracoViewPage<IPS.Models.ContactModels>
+@using (Html.BeginUmbracoForm<ContactController>("HandleFormPost", null, new { id = "kontakt" }))
+{
+
+    <div class="row" style="vertical-align: central">
+        <div class="col-md-offset-3 col-md-6 col-md-offset-3 rowform">
+            <div class="form-group">
+                <label for="Name" class="formlabel">Name:</label>
+                @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Your Name" })
+            </div>
+            <div class="form-groups">
+                <label for="Title" class="formlabel">Title:</label>
+                @Html.TextBoxFor(x => x.Title, new { @class = "form-control", placeholder = "Message title" })
+            </div>
+            <div class="form-group">
+                <label for="Email" class="formlabel">Email address:</label>
+                @Html.TextBoxFor(x => x.Email, new { @class = "form-control", placeholder = "Your email address" })
+            </div>
+            <div class="form-group">
+                <label for="Message" class="formlabel">Comment:</label>
+                @Html.TextAreaFor(x => x.Message, new { @class = "form-control", placeholder = "Your Message ..." })
+            </div>
+            <button id="submit" type="submit" class="btn btn-success sendmail">Send Message</button>
+        </div>
+    </div>
+}

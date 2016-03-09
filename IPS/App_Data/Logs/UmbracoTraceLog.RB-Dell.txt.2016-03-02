@@ -1,0 +1,29 @@
+﻿ 2016-03-02 18:18:36,217 [P4444/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.4.1 application starting on RB-DELL
+ 2016-03-02 18:18:36,731 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-03-02 18:18:36,743 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 12ms)
+ 2016-03-02 18:18:36,814 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-03-02 18:18:37,700 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 886ms)
+ 2016-03-02 18:18:38,056 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-03-02 18:18:38,056 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+ 2016-03-02 18:18:38,056 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-03-02 18:18:38,057 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 0ms)
+ 2016-03-02 18:18:38,067 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-03-02 18:18:38,068 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 1ms)
+ 2016-03-02 18:18:38,069 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-03-02 18:18:38,172 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 103ms)
+ 2016-03-02 18:18:38,473 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-03-02 18:18:38,473 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 0ms)
+ 2016-03-02 18:18:38,474 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-03-02 18:18:38,474 [P4444/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 0ms)
+ 2016-03-02 18:18:40,169 [P4444/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-03-02 18:18:40,828 [P4444/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-03-02 18:18:40,831 [P4444/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-03-02 18:18:41,312 [P4444/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-03-02 18:18:41,684 [P4444/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-03-02 18:18:41,880 [P4444/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-03-02 18:18:41,920 [P4444/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 5873ms)
+ 2016-03-02 18:18:52,112 [P4444/D2/T9] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:13043/umbraco (UmbracoModule request)
+ 2016-03-02 18:21:10,240 [P4444/D2/T9] INFO  umbraco.content - Load Xml from file...
+ 2016-03-02 18:21:10,254 [P4444/D2/T9] INFO  umbraco.content - Loaded Xml from file.
+ 2016-03-02 18:21:11,996 [P4444/D2/T9] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-03-02 18:21:11,997 [P4444/D2/T9] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 0ms)
